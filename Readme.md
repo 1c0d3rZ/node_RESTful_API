@@ -19,7 +19,6 @@
   -  nvm – Node Version Manager
   -  npm – Node Package Manager
   -  Node.js
-  -  Installing Express
   -  Express installed with npm (**_npm install express body-parser morgan_**).
 
 ## **`How to Use`** :
